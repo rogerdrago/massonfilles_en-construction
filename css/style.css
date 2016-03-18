@@ -357,6 +357,15 @@ p {
   margin-bottom: 25px;
 }
 
+a{
+  color: white;
+}
+
+a:hover{
+  color:#orange;
+}
+
+
 a:focus {
   box-shadow: none;
   outline-offset: 0 !important;
