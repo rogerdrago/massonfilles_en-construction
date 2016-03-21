@@ -1396,11 +1396,11 @@ textarea {
 }
 
 a {
-  color: #ffcc00;
+  color: orange;
   text-decoration: none;
 }
 a:hover, a:focus {
-  color: #ffcc00;
+  color: orange;
   text-decoration: none;
 }
 a:focus {
